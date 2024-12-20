@@ -17,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hex-Byte-Glich&icon=2&color=10)](https://visitcount.itsvg.in)
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
